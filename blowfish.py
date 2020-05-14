@@ -305,7 +305,7 @@ def definepandskeys():
 ######    Boring conversions     #####
 ######################################
 #This bit of the code does the conversions
-#to binary, text to numbers ext
+#to binary, text to numbers etc
 
 def pwdtokey(password):
     numbers = []
@@ -706,7 +706,7 @@ def blowfishdecrypt(C, p_boxes, s_boxes):
     
 
     
-test = 'hola chaps, you are all most excelent chaps/chappettes'
+test = 'hola chaps, you are all most excelent chaps/chappettes. I say there will this go wrong if I make it long'
 resultnum = text2num(test)
 testout = num2text(resultnum)
 #print resultnum
