@@ -620,9 +620,6 @@ def blowfishencrypt(message, p_boxes, s_boxes):
             
         xR = xrbuf + xR
 
-
-
-
         C.append(xL + xR)
 
     
@@ -683,9 +680,6 @@ def blowfishdecrypt(C, p_boxes, s_boxes):
             for i in range(32 - len(xR)):
                 xrbuf = xrbuf + '0'
             xR = xrbuf + xR
-
-
-
 
         a1 = xL + xR
         A1.append(a1)
