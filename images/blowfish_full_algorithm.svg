@@ -9,13 +9,13 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="96"
    inkscape:export-xdpi="96"
-   inkscape:export-filename="/home/stuart/Documents/encrytion_stuff/Blowfish_encryption/blowfish_full_algorithm.png"
+   inkscape:export-filename="/home/stuart/Documents/encrytion_stuff/Blowfish_encryption/images/blowfish_full_algorithm.png"
    width="296mm"
    height="282mm"
    viewBox="0 0 296 282"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0 (6e3e5246a0, 2020-05-07)"
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
    sodipodi:docname="blowfish_full_algorithm.svg">
   <defs
      id="defs2">
@@ -133,16 +133,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="1009.6244"
-     inkscape:cy="616.0165"
+     inkscape:zoom="0.35"
+     inkscape:cx="435.7071"
+     inkscape:cy="817.79431"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1853"
-     inkscape:window-height="1025"
-     inkscape:window-x="67"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
      inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <metadata
@@ -153,7 +153,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -161,6 +161,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.02081;stroke-linejoin:round"
+       id="rect2079"
+       width="286.71201"
+       height="274.8414"
+       x="5.3380094"
+       y="3.3097296" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
